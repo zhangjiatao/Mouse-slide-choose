@@ -3,4 +3,4 @@
 
 ## 安装
 * mac: pip install PyUserInput
-* win: 还没有做适配，不知道可不可用，可以
+* win: 没有在win上做测试
